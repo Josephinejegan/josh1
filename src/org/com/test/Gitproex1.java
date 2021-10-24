@@ -6,6 +6,10 @@ public class Gitproex1 {
 		
 		System.out.println("empid is:12345");
 	}
+	public void empName()
+	{
+		System.out.println("Empname");
+	}
 	public static void main(String[] args) {
 		
 		System.out.println("welcome");
